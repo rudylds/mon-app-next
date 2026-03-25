@@ -57,12 +57,15 @@ export default function Home() {
           <p className="mb-4 text-sm font-medium uppercase tracking-widest text-violet-400">
             Développeur Web Full-Stack
           </p>
-          <h1 className="mb-6 text-5xl font-bold leading-tight tracking-tight text-white sm:text-6xl lg:text-7xl">
-            Bonjour, je suis{" "}
+          <h1 className="mb-3 text-5xl font-bold leading-tight tracking-tight text-white sm:text-6xl lg:text-7xl">
+            Rudy —{" "}
             <span className="bg-gradient-to-r from-violet-400 to-cyan-400 bg-clip-text text-transparent">
-              Rudy
+              Créateur de contenu
             </span>
           </h1>
+          <p className="mb-6 text-xl font-medium text-zinc-300">
+            Bienvenue sur mon portfolio Next.js
+          </p>
           <p className="mb-10 max-w-2xl text-lg leading-relaxed text-zinc-400">
             Je conçois et développe des applications web modernes, rapides et
             accessibles. Passionné par les interfaces soignées et les
